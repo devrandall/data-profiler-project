@@ -1,0 +1,66 @@
+# ----------------------------
+# Python cache & compiled files
+# ----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ----------------------------
+# Virtual environments
+# ----------------------------
+venv/
+.env/
+env/
+.venv/
+
+# ----------------------------
+# Jupyter Notebook checkpoints
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# VS Code settings
+# ----------------------------
+.vscode/
+
+# ----------------------------
+# OS-specific junk files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Data science outputs
+# (note: output.txt allowed)
+# ----------------------------
+*.log
+*.pkl
+*.h5
+*.joblib
+
+# ----------------------------
+# Large or raw datasets
+# (protects accidental uploads)
+# ----------------------------
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.db
+*.sqlite
+
+# ----------------------------
+# Hidden or temporary files
+# ----------------------------
+*.bak
+*.tmp
+*.swp
+
+# ----------------------------
+# Build artifacts
+# ----------------------------
+*.egg-info/
+dist/
+build/
