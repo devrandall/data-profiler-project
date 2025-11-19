@@ -32,8 +32,9 @@ Thumbs.db
 
 # ----------------------------
 # Data science outputs
-# (note: output.txt allowed)
+# (note: output.txt also blocked)
 # ----------------------------
+output.txt
 *.log
 *.pkl
 *.h5
