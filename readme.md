@@ -2,9 +2,9 @@
 
 This mini-project is part of the Codecademy Data Science with AI for Beginners Bootcamp (Week 2).
 
-A simple, beginner-friendly data profiling tool/function written in Python (Jupyter Notebook and python file versions included).  
+A simple data profiling tool/function written in Python (Jupyter Notebook and python file versions included).  
 
-This function loads a CSV file, performs basic exploratory analysis, and writes the results to a text file for review.
+This function loads a CSV file, performs basic exploratory analysis and writes the results to a text file for review.
 
 
 ## Features
